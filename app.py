@@ -21,6 +21,9 @@ if __name__=="__main__":
     person1.display()
 
 
-def addition(a,b):
-    return a+b
+def addition(a,b,c):
+    return a+b+c
+
+## adition code
+
 
